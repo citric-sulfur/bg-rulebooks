@@ -4,3 +4,4 @@
 옵시디언용이라서 깃헙에서 보기엔 약간 불편할 수 있습니다.  
 모든 문서엔 이미지가 없습니다.  
 개인적으로 직접 작성한 문서들이라 빈 문서가 많을 수 있습니다.  
+[폴더 보기](https://github.com/citric-sulfur/bg_rulebooks/tree/main/rulebooks)
