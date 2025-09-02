@@ -10,4 +10,4 @@
 깃헙 마크다운은 엔터 눌러도 줄 바꿈이 안 되고 띄어쓰기를 두 번 해야 줄 바꿈이 됨.  
 그래서 대부분 문서에는 줄 바꿈이 적용이 안 되어서 보기 불편한 수는 있음.  
 
-[폴더 보기](https://github.com/citric-sulfur/bg_rulebooks/tree/main/rulebooks)
+# [폴더 보기](https://github.com/citric-sulfur/bg_rulebooks/tree/main/rulebooks)
