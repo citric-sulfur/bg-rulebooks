@@ -9,11 +9,11 @@
   - 3
   - 4
 플레이 여부: true
+내용: false
 복잡도: 1.68
 플레이 타임: 30~60분
 링크:
   - https://bgg.cc/boardgame/299252/here-to-slay
-내용: false
 ---
 ## 개요
 ## 준비
