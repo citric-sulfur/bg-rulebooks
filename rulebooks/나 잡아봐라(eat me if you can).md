@@ -7,11 +7,11 @@
 베스트 인원:
   - 6
 플레이 여부: true
+내용: false
 복잡도: 1.03
 플레이 타임: 10분
 링크:
   - https://boardgamegeek.com/boardgame/145722/eat-me-if-you-can
-내용: false
 ---
 ## 개요
 늑대를 피해 잠을 자서 점수를 얻는 게임
