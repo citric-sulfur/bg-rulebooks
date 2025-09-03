@@ -8,6 +8,7 @@
 플레이 타임: 30분
 링크:
   - https://bgg.cc/boardgame/526/abalone
+내용: false
 ---
 ## 개요
 ## 준비

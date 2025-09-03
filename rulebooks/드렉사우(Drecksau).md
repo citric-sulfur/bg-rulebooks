@@ -9,4 +9,5 @@
 복잡도: 1.05
 링크:
   - https://bgg.cc/boardgame/118410/dirty-pig
+내용: false
 ---
