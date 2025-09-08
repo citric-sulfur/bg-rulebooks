@@ -12,7 +12,7 @@
 플레이 타임: 10분
 링크:
   - https://boardgamegeek.com/boardgame/145722/eat-me-if-you-can
-평점: 3.5
+평점: 4
 ---
 ## 개요
 늑대를 피해 잠을 자서 점수를 얻는 게임
