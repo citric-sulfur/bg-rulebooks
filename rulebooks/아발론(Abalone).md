@@ -9,6 +9,7 @@
 링크:
   - https://bgg.cc/boardgame/526/abalone
 내용: false
+평점: 2
 ---
 ## 개요
 ## 준비

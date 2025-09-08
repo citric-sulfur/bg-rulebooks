@@ -14,6 +14,7 @@
 플레이 타임: 30~60분
 링크:
   - https://bgg.cc/boardgame/299252/here-to-slay
+평점: 4
 ---
 ## 개요
 ## 준비
