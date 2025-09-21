@@ -15,6 +15,7 @@
 링크:
   - https://bgg.cc/boardgame/367396/avalon-big-box
 내용: false
+tags: []
 ---
 ## 개요
 ## 준비

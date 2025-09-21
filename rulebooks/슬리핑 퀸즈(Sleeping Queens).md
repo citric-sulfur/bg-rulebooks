@@ -12,4 +12,5 @@
 링크:
   - https://bgg.cc/boardgame/17053/sleeping-queens
 내용: false
+tags: []
 ---

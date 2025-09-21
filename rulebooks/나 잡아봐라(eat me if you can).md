@@ -13,6 +13,7 @@
 링크:
   - https://boardgamegeek.com/boardgame/145722/eat-me-if-you-can
 평점: 4
+tags: []
 ---
 ## 개요
 늑대를 피해 잠을 자서 점수를 얻는 게임

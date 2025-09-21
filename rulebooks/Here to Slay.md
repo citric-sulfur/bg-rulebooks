@@ -15,6 +15,7 @@
 링크:
   - https://bgg.cc/boardgame/299252/here-to-slay
 평점: 4
+tags: []
 ---
 ## 개요
 ## 준비

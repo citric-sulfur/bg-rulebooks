@@ -12,4 +12,5 @@
 링크:
   - https://bgg.cc/boardgame/12/ra
 내용: false
+tags: []
 ---
